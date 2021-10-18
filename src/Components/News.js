@@ -1,8 +1,21 @@
 import React, { Component } from 'react'
 import NewsItems from './NewsItems'
 import Spinner from './Spinner';
+import PropTypes from 'prop-types'
 
 export class News extends Component {
+    static defaultProps = {
+        pageSize: 15,
+        country: "in",
+        category: "general"
+    }
+
+    static propTypes = {
+        pageSize: PropTypes.number,
+        country: PropTypes.string,
+        category: PropTypes.string,
+    }
+
     constructor() {
         super();
         this.state = {
@@ -26,7 +39,7 @@ export class News extends Component {
     }
 
     utility = async (pages) => {
-        let url = `https://newsapi.org/v2/everything?q=bitcoin&sortBy=popularity&apiKey=6942cb0e3e1e4749bcb44dda958837f9&pageSize=${this.props.pageSize}&page=${pages}`;
+        let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&country=${this.props.country}&sortBy=popularity&apiKey=6942cb0e3e1e4749bcb44dda958837f9&pageSize=${this.props.pageSize}&page=${pages}`;
         this.setState({ loading: true })
         let data = await fetch(url);
         let parsedData = await data.json();
