@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 97248,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Facebook's chief technology officer is leaving the company after 13 years",
+            "description": "Facebook is about to close an important chapter in its history. CNBCreports the social network's chief technology officer, Mike Schroepfer, is stepping down from his role after a total 13 years at the company. He'll move to a part-time position as Facebook's …",
+            "url": "https://www.engadget.com/facebook-cto-steps-down-2022-205051710.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/d1c03c60-1be5-11ec-b1b5-2c26965a1640",
+            "publishedAt": "2021-09-22T20:50:51Z",
+            "content": "Facebook is about to close an important chapter in its history. CNBCreports the social network's chief technology officer, Mike Schroepfer, is stepping down from his role after a total 13 years at th… [+229 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Charles G. Thompson",
+            "title": "How My Job Search Forced Me to Catch Up With Technology",
+            "description": "After being in one career for decades, I had to relearn how to apply for jobs—and how to stand out. Here are a few tips.",
+            "url": "https://www.wired.com/story/how-my-job-search-forced-me-catch-up-technology-tips/",
+            "urlToImage": "https://media.wired.com/photos/6145007fe3c981d3147da102/191:100/w_1280,c_limit/Gear-Job-Search-1281212808.jpg",
+            "publishedAt": "2021-09-18T11:00:00Z",
+            "content": "After working in the entertainment industry for 25 years and taking a Covid-forced break from searching for work, I recently started looking for steady employment. The job site Indeed reports that th… [+7008 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Alphabet’s Project Taara is beaming high-speed internet across the Congo River",
+            "description": "The high speed wireless optical link technology Alphabet originally developed for its shuttered Loon balloon company is currently being used for another moonshot called Project Taara.",
+            "url": "http://techcrunch.com/2021/09/16/alphabets-project-taara-is-beaming-high-speed-internet-across-the-congo-river/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Project-Taara.jpg?w=764",
+            "publishedAt": "2021-09-16T11:19:44Z",
+            "content": "More posts by this contributor\r\nAlphabet ended Project Loon earlier this year, but the things it learned from the internet-broadcasting balloon initiative haven’t gone to waste. The high speed wirele… [+2318 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "CodeSignal secures $50M for its tech hiring platform",
+            "description": "The company’s technical assessment technology is a “flight simulator for developers,” that gives candidates a score based on a simulated evaluation of their skills.",
+            "url": "http://techcrunch.com/2021/09/16/codesignal-secures-50m-for-its-tech-hiring-platform/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Tigran-2021.jpeg?w=686",
+            "publishedAt": "2021-09-16T14:00:13Z",
+            "content": "In less than a year after raising $25 million in Series B funding, technical assessment company CodeSignal announced a $50 million in Series C funding to offer new features for its platform that help… [+3787 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Don’t be fooled — Amazon’s Astro isn’t a home robot, it’s a camera on wheels",
+            "description": "Amazon wants to sell you a home robot, Astro, a $999 device that is basically a camera on wheels. Some people will welcome this sort of surveillance, but I don’t trust Amazon to develop this technology honestly or openly.",
+            "url": "https://www.theverge.com/22699916/amazon-astro-home-robot-camera-surveillance-device",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/yI2lXz_0RvuFKSJ5lnbbpYTxdok=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22882955/amazon_astro_home_robot_4773_9.jpg",
+            "publishedAt": "2021-09-29T13:44:50Z",
+            "content": "Whether you like it or not, lets be clear about what Amazon is selling\r\nPhoto by Dan Seifert / The Verge\r\nYesterday, Amazon announced its home robot a wheeled device named Astro that has a display, a… [+4368 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Inside GitLab’s IPO filing",
+            "description": "While the technology and business world worked towards the weekend, DevOps firm GitLab filed to go public. So we need to pause, digest the company's S-1 filing, and come to some early conclusions.",
+            "url": "http://techcrunch.com/2021/09/17/inside-gitlabs-ipo-filing/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-103399424.jpg?w=600",
+            "publishedAt": "2021-09-17T20:46:25Z",
+            "content": "While the technology and business world worked towards the weekend, developer operations (DevOps) firm GitLab filed to go public. Before we get into our time off, we need to pause, digest the company… [+2187 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "NTSB head says Tesla must address 'basic safety issues' with semi-autonomous features",
+            "description": "Tesla isn't about to get a sympathetic ear from US regulators as it rolls out more semi-autonomous technology. New National Transportation Safety Board head Jennifer Homendy told The Wall Street Journal in an interview that Tesla needs to tackle \"basic safety…",
+            "url": "https://www.engadget.com/ntsb-head-on-tesla-full-self-driving-safety-170443851.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-images/2020-02/573a2860-4997-11ea-b8ff-def49bb616f0",
+            "publishedAt": "2021-09-19T17:04:43Z",
+            "content": "Tesla isn't about to get a sympathetic ear from US regulators as it rolls out more semi-autonomous technology. New National Transportation Safety Board head Jennifer Homendy told The Wall Street Jour… [+1402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Tim Weiner",
+            "title": "Abdul Qadeer Khan, Father of Pakistan’s Nuclear Program, Dies at 85",
+            "description": "Starting from scratch in 1976, he acquired the technology and knowledge that allowed Pakistan to detonate its first nuclear device in 1998.",
+            "url": "https://www.nytimes.com/2021/10/10/obituaries/abdul-qadeer-khan-dead.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/10/world/10khan/10khan-facebookJumbo.jpg",
+            "publishedAt": "2021-10-10T07:49:36Z",
+            "content": "A.Q. Khan is betraying your country, Mr. Tenet said he told the Pakistani leader. He has stolen some of your nations most sensitive secrets and sold them to the highest bidders. In his own memoir, Mr… [+1970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Astead W. Herndon, Michael Simon Johnson, Neena Pathak, Chelsea Daniel, Mooj Zadie, Paige Cowett, Rachel Quester and Chris Wood",
+            "title": "Submarines and Shifting Allegiances",
+            "description": "Why the U.S.-British deal to sell military technology to Australia has unleashed claims of backstabbing and betrayal.",
+            "url": "https://www.nytimes.com/2021/09/22/podcasts/the-daily/submarine-deal-france-macron-biden.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/22/world/22daily/22daily-facebookJumbo-v2.jpg",
+            "publishedAt": "2021-09-22T10:00:09Z",
+            "content": "Mark Landler contributed reporting.\r\nThe Daily is made by Lisa Tobin, Rachel Quester, Lynsea Garrison, Annie Brown, Clare Toeniskoetter, Paige Cowett, Michael Simon Johnson, Brad Fisher, Larissa Ande… [+731 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Continental restructures technology unit, downsizes board - Reuters",
+            "description": "German car parts maker Continental <a href=\"https://www.reuters.com/companies/CONG.DE\" target=\"_blank\">(CONG.DE)</a> announced plans for a restructuring that will combine from the start of next year business activities around connectivity, mobility, and high-…",
+            "url": "https://www.reuters.com/business/autos-transportation/continental-restructures-technology-unit-downsizes-board-2021-09-30/",
+            "urlToImage": "https://www.reuters.com/resizer/w0CMEkaKbll0P-FHrhCs6NTOe_U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YJTMDD22YBIXXPEFH2CMQKQ76A.jpg",
+            "publishedAt": "2021-09-30T12:39:00Z",
+            "content": "A self-driving car of German company Continental is pictured in Hanover, Germany April 25, 2018. REUTERS/Fabian BimmerBERLIN, Sept 30 (Reuters) - German car parts maker Continental (CONG.DE) announce… [+1195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seths.blog"
+            },
+            "author": "Seth Godin",
+            "title": "Gift cards, serial numbers and hard technology",
+            "description": "I bought someone a digital gift card the other day. That’s generally a bad idea, since there’s so much waste and breakage, but it was the right answer to the problem in the moment. The code the person would have to type in to redeem the card was: X5LMFP478DRY…",
+            "url": "https://seths.blog/2021/09/gift-cards-serial-numbers-and-hard-technology/",
+            "urlToImage": "https://149521506.v2.pressablecdn.com/wp-content/uploads/2018/06/seth_godin_ogimages_v02_1806136-1.jpg",
+            "publishedAt": "2021-09-19T07:04:00Z",
+            "content": "I bought someone a digital gift card the other day. That’s generally a bad idea, since there’s so much waste and breakage, but it was the right answer to the problem in the moment.\r\nThe code the pers… [+1995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Joshua Barone",
+            "title": "Review: In ‘Upload,’ Do Blockchains Dream of Electric Lizards?",
+            "description": "Michel van der Aa’s new opera weaves technology into a traditional form with masterly restraint for a sci-fi spin on a fundamentally human tale.",
+            "url": "https://www.nytimes.com/2021/10/03/arts/music/dutch-national-opera-upload-review.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/03/arts/03dutch-opera/03dutch-opera-facebookJumbo.jpg",
+            "publishedAt": "2021-10-03T16:26:50Z",
+            "content": "When briefly in a paused state, the Father realizes that something failed in the upload; it should have suppressed the trauma of his wifes death but didnt, dooming him to grieve her for eternity. He … [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Julian E. Barnes",
+            "title": "C.I.A. Reorganization to Place New Focus on China",
+            "description": "The agency will create two new mission centers, one focused on China, the other focused on emerging technology, climate change and global health.",
+            "url": "https://www.nytimes.com/2021/10/07/us/politics/cia-reorganization-china.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/07/us/politics/07dc-INTEL/07dc-INTEL-facebookJumbo.jpg",
+            "publishedAt": "2021-10-07T12:00:06Z",
+            "content": "A decade ago, the Chinese government systematically dismantled the C.I.A.s spying operation in the country, with informants captured or killed. Some former officials have blamed a breach of the agenc… [+2502 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "TrueLayer nabs $130M at a $1B+ valuation as open banking rises as a viable option to card networks",
+            "description": "Open banking — a disruptive technology that seeks to bypass the dominance of card networks and other traditional financial rails by letting banks open their systems directly to developers (and new services) by way of APIs — continues to gain ground in the wor…",
+            "url": "http://techcrunch.com/2021/09/20/truelayer-nabs-130m-at-a-1b-valuation-as-open-banking-rises-as-a-viable-option-to-card-networks/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1250152599.jpg?w=764",
+            "publishedAt": "2021-09-20T23:12:43Z",
+            "content": "Open banking — a disruptive technology that seeks to bypass the dominance of card networks and other traditional financial rails by letting banks open their systems directly to developers (and new se… [+4409 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Boston Dynamics owner Hyundai deploys Spot for factory safety monitoring",
+            "description": "Back in June, Hyundai completed a deal for controlling interest in Boston Dynamics. The Korean automotive giant no doubt has some grand plans for integrating the Massachusetts-based firm’s technology into a lot of their forward-looking concept mobility vehicl…",
+            "url": "http://techcrunch.com/2021/09/17/boston-dynamics-owner-hyundai-deploys-spot-for-factory-safety-monitoring/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Large-48284-HyundaiMotorGroupLaunchesFactorySafetyServiceRobotFirstProjectwithBostonDynamicsinSupportofSiteSafety.jpg?w=600",
+            "publishedAt": "2021-09-17T15:15:32Z",
+            "content": "Back in June, Hyundai completed a deal for controlling interest in Boston Dynamics. The Korean automotive giant no doubt has some grand plans for integrating the Massachusetts-based firms technology … [+1740 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Carmichael Roberts, Sean O’Sullivan will share insights into climate tech and investing at Disrupt",
+            "description": "The effects of a warming planet, from frequent and extreme flooding to hurricanes and drought, has prompted activists and governments to take action. It’s also spurred a growing number of entrepreneurs to launch technology startups focused on the mitigation o…",
+            "url": "http://techcrunch.com/2021/09/20/carmichael-roberts-sean-osullivan-will-share-insights-into-climate-tech-and-investing-at-disrupt/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Disrupt-2021-roberts-osullivan.jpg?w=764",
+            "publishedAt": "2021-09-20T18:32:59Z",
+            "content": "The effects of a warming planet, from frequent and extreme flooding to hurricanes and drought, has prompted activists and governments to take action. Its also spurred a growing number of entrepreneur… [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Blue Bear Capital raises $150M to fund climate, energy and infrastructure tech",
+            "description": "Blue Bear Capital has raised a new $150 million fund that will be used to find and invest in startups developing technology aimed at speeding up the adoption and industrialization of renewable energy. This is the venture firm’s second fund, which it says is o…",
+            "url": "http://techcrunch.com/2021/09/21/blue-bear-capital-raises-150m-to-fund-climate-energy-and-infrastructure-tech/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-21-at-2.11.22-pm.png?w=675",
+            "publishedAt": "2021-09-21T11:00:40Z",
+            "content": "Blue Bear Capital has raised a new $150 million fund that will be used to find and invest in startups developing technology aimed at speeding up the adoption and industrialization of renewable energy… [+2753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Scientists identify potential treatment for previously unknown condition affecting children",
+            "description": "Researchers from the Agency for Science, Technology and Research's (A*STAR) Genome Institute of Singapore (GIS), and Rady Children's Institute for Genomic Medicine identified a previously unknown condition affecting children, which they discovered could be pr…",
+            "url": "https://techncruncher.blogspot.com/2021/10/scientists-identify-potential-treatment.html",
+            "urlToImage": null,
+            "publishedAt": "2021-10-03T02:05:00Z",
+            "content": "Researchers from the Agency for Science, Technology and Research's (A*STAR) Genome Institute of Singapore (GIS), and Rady Children's Institute for Genomic Medicine identified a previously unknown con… [+197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Australia Team",
+            "title": "How advertising technology is helping power our digital economy",
+            "description": "Advertising technology (or ‘ad tech’ as it’s known) is helping support our digital economy and has given Australian businesses and publishers new ways to reach their customers and grow their audiences online. \r\nThe innovation of technologies like ad tech has …",
+            "url": "https://blog.google/around-the-globe/google-asia/australia/how-advertising-technology-helping-power-our-digital-economy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FMKuf+%28The+Keyword+%7C+Official+Google+Blog%29",
+            "urlToImage": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+            "publishedAt": "2021-09-27T23:35:00Z",
+            "content": "Advertising technology (or ad tech as its known) is helping support our digital economy and has given Australian businesses and publishers new ways to reach their customers and grow their audiences o… [+5437 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Singapore, Netherlands marry nature and technology at Dubai Expo - Reuters",
+            "description": "Amid the soaring temperatures of the United Arab Emirates, visitors to Expo 2020 Dubai can take refuge at the Singapore pavilion's mini rainforest.",
+            "url": "https://www.reuters.com/business/environment/singapore-netherlands-marry-nature-technology-dubai-expo-2021-10-07/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53",
+            "publishedAt": "2021-10-07T12:40:00Z",
+            "content": "DUBAI, Oct 7 (Reuters) - Amid the soaring temperatures of the United Arab Emirates, visitors to Expo 2020 Dubai can take refuge at the Singapore pavilion's mini rainforest.\r\nWith 80,000 plants from 1… [+1986 chars]"
+        }
+    ]
+}
