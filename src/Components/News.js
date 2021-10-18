@@ -6,15 +6,30 @@ export class News extends Component {
         super();
         this.state = {
             articles: [],
-            loading: false
+            loading: false,
+            page: 1,
+            pageSize: 20,
+            totalResults: 0
         }
     }
+
     async componentDidMount() {
-        let url = "https://newsapi.org/v2/everything?q=bitcoin&sortBy=popularity&apiKey=6942cb0e3e1e4749bcb44dda958837f9";
+        this.utility(this.state.page);
+    }
+
+    gotoNext = async () => {
+        this.utility(this.state.page + 1);
+    }
+
+    gotoPrev = async () => {
+        this.utility(this.state.page - 1);
+    }
+
+    utility = async (pages) => {
+        let url = `https://newsapi.org/v2/everything?q=bitcoin&sortBy=popularity&apiKey=6942cb0e3e1e4749bcb44dda958837f9&pageSize=${this.state.pageSize}&page=${pages}`;
         let data = await fetch(url);
         let parsedData = await data.json();
-        console.log(parsedData);
-        this.setState({ articles: parsedData.articles });
+        this.setState({ articles: parsedData.articles, page: pages, totalResults: parsedData.totalResults });
     }
 
     render() {
@@ -27,6 +42,10 @@ export class News extends Component {
                             return (<div className="col-md-4" key={element.url}><NewsItems title={element.title} description={element.description} imageUrl={!element.urlToImage ? "https://t3.ftcdn.net/jpg/04/29/42/42/360_F_429424279_dokEFwnSoJeOKpqvV1ttXum8piESsF5L.jpg" : element.urlToImage} link={element.url} /></div>);
                         })
                     }
+                </div>
+                <div className="container d-flex justify-content-between">
+                    <button disabled={this.state.page <= 1} type="button" className="btn btn-dark" onClick={this.gotoPrev}>&larr; Prev</button>
+                    <button disabled={(this.state.page + 1) * this.state.pageSize > 100 || Math.ceil(this.state.totalResults / this.state.pageSize) < this.state.page + 1} type="button" className="btn btn-dark" onClick={this.gotoNext}>Next &rarr;</button>
                 </div>
             </div>
         )
